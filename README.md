@@ -81,7 +81,7 @@ broadway-box-office-forecasting/
 │   ├── figures/              # Exploratory analysis figures
 │   ├── models/               # Frozen trained models
 │   ├── tables/               # Evaluation and analysis results
-│   └── reports/              # Coursework reports
+│   
 │
 ├── tests/                    # Automated tests
 ├── requirements.txt
