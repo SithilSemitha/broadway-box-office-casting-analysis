@@ -8,3 +8,7 @@ artifacts/
 .tools/
 outputs/logs/
 dist/
+
+# Generated Spark/Hadoop sidecars; retain the actual processed Parquet parts.
+data/processed/**/*.crc
+data/processed/**/_SUCCESS
