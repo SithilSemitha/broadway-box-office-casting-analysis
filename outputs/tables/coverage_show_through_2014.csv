@@ -1,0 +1,963 @@
+show,rows,eligible_rows,ineligible_rows,eligibility_rate
+The Phantom of the Opera,1408,1404,4,0.9971590909090909
+Les Miserables,953,937,16,0.9832109129066107
+Chicago,949,945,4,0.9957850368809273
+The Lion King,897,889,8,0.9910813823857302
+Cats,797,793,4,0.9949811794228356
+Mamma Mia!,690,682,8,0.9884057971014493
+Beauty and the Beast,690,682,8,0.9884057971014493
+Rent,647,643,4,0.9938176197836167
+Wicked,586,582,4,0.9931740614334471
+Miss Saigon,515,511,4,0.9922330097087378
+Jersey Boys,482,478,4,0.991701244813278
+42nd Street,384,376,8,0.9791666666666666
+Cabaret,380,364,16,0.9578947368421052
+A Chorus Line,355,343,12,0.9661971830985916
+Hairspray,338,334,4,0.9881656804733728
+Mary Poppins,334,330,4,0.9880239520958084
+Avenue Q,323,319,4,0.9876160990712074
+The Producers,318,314,4,0.9874213836477987
+Rock of Ages,292,284,8,0.9726027397260274
+Grease,267,255,12,0.9550561797752809
+Smokey Joe's Cafe,256,244,12,0.953125
+Aida,237,233,4,0.9831223628691983
+Oh! Calcutta!,218,214,4,0.981651376146789
+La Cage aux Folles,217,205,12,0.9447004608294931
+Crazy for You,206,202,4,0.9805825242718447
+Jekyll & Hyde,205,197,8,0.9609756097560975
+Spamalot,204,200,4,0.9803921568627451
+The Book of Mormon,201,197,4,0.9800995024875622
+Gypsy,184,168,16,0.9130434782608695
+Me and My Girl,179,175,4,0.9776536312849162
+Anything Goes,174,166,8,0.9540229885057471
+Billy Elliot: The Musical,171,167,4,0.9766081871345029
+Movin' Out,167,163,4,0.9760479041916168
+Guys and Dolls,166,158,8,0.9518072289156626
+Spider-Man Turn Off the Dark,160,152,8,0.95
+In the Heights,152,148,4,0.9736842105263158
+Memphis,150,146,4,0.9733333333333334
+Once,148,144,4,0.972972972972973
+The 25th Annual Putnam County Spelling Bee,145,141,4,0.9724137931034482
+"Bring in 'da Noise, Bring in 'da Funk",144,140,4,0.9722222222222222
+Fosse,140,136,4,0.9714285714285714
+Into the Woods,139,131,8,0.9424460431654677
+How to Succeed in Business Without Really Trying,136,128,8,0.9411764705882353
+Fiddler on the Roof,136,128,8,0.9411764705882353
+Annie Get Your Gun,135,131,4,0.9703703703703703
+Big River,132,124,8,0.9393939393939394
+Contact,131,127,4,0.9694656488549618
+Grand Hotel,131,123,8,0.9389312977099237
+South Pacific,130,126,4,0.9692307692307692
+Newsies,128,124,4,0.96875
+The Will Rogers Follies,127,123,4,0.968503937007874
+Sunset Boulevard,125,121,4,0.968
+Urinetown The Musical,125,121,4,0.968
+I'm Not Rappaport,122,114,8,0.9344262295081968
+The Color Purple,121,117,4,0.9669421487603306
+Ragtime,120,112,8,0.9333333333333333
+Show Boat,120,116,4,0.9666666666666667
+Thoroughly Modern Millie,118,114,4,0.9661016949152542
+Proof,117,113,4,0.9658119658119658
+Rob Becker's Defending the Caveman,116,100,16,0.8620689655172413
+The Who's Tommy,116,112,4,0.9655172413793104
+Kiss of the Spider Woman,115,111,4,0.9652173913043478
+Spring Awakening,114,110,4,0.9649122807017544
+"Kiss Me, Kate",114,110,4,0.9649122807017544
+City of Angels,113,109,4,0.9646017699115044
+Black and Blue,108,104,4,0.9629629629629629
+Blood Brothers,107,103,4,0.9626168224299065
+Titanic,105,101,4,0.9619047619047619
+The King and I,105,97,8,0.9238095238095239
+The Scarlet Pimpernel,103,95,8,0.9223300970873787
+The Full Monty,101,97,4,0.9603960396039604
+Cinderella,101,97,4,0.9603960396039604
+The Tale of the Allergist's Wife,101,97,4,0.9603960396039604
+The 39 Steps,100,88,12,0.88
+The Mystery of Edwin Drood,100,92,8,0.92
+Master Class,99,87,12,0.8787878787878788
+M. Butterfly,99,95,4,0.9595959595959596
+Lost in Yonkers,99,95,4,0.9595959595959596
+Annie,98,90,8,0.9183673469387755
+Starlight Express,98,94,4,0.9591836734693877
+West Side Story,97,93,4,0.9587628865979382
+Broadway Bound,96,92,4,0.9583333333333334
+Kinky Boots,96,92,4,0.9583333333333334
+The Little Mermaid,96,92,4,0.9583333333333334
+Next to Normal,95,91,4,0.9578947368421052
+The Addams Family,95,91,4,0.9578947368421052
+War Horse,95,91,4,0.9578947368421052
+Victor / Victoria,95,91,4,0.9578947368421052
+Matilda The Musical,95,91,4,0.9578947368421052
+A Funny Thing Happened on the Way to the Forum,94,90,4,0.9574468085106383
+Motown The Musical,94,90,4,0.9574468085106383
+Pippin,93,89,4,0.956989247311828
+The Secret Garden,92,88,4,0.9565217391304348
+Footloose,91,87,4,0.9560439560439561
+The Music Man,91,87,4,0.9560439560439561
+The Drowsy Chaperone,91,87,4,0.9560439560439561
+Jackie Mason's The World According to Me!,90,82,8,0.9111111111111111
+Jerome Robbins' Broadway,86,82,4,0.9534883720930233
+August: Osage County,86,78,8,0.9069767441860465
+Sweet Charity,86,78,8,0.9069767441860465
+Lend Me a Tenor,85,77,8,0.9058823529411765
+The Search for Signs of Intelligent Life in the Universe,83,71,12,0.8554216867469879
+Dirty Rotten Scoundrels,83,79,4,0.9518072289156626
+Forever Tango,83,63,20,0.7590361445783133
+Legally Blonde,81,77,4,0.9506172839506173
+Fences,80,72,8,0.9
+Hair,79,71,8,0.8987341772151899
+Art,78,74,4,0.9487179487179487
+Riverdance - on Broadway,78,74,4,0.9487179487179487
+Sweeney Todd,78,70,8,0.8974358974358975
+Cat on a Hot Tin Roof,77,61,16,0.7922077922077922
+Sarafina!,76,72,4,0.9473684210526315
+Jelly's Last Jam,75,71,4,0.9466666666666667
+Sister Act,75,71,4,0.9466666666666667
+The Odd Couple,73,65,8,0.8904109589041096
+The Last Night of Ballyhoo,73,69,4,0.9452054794520548
+The Sound of Music,72,68,4,0.9444444444444444
+The Sisters Rosensweig,72,68,4,0.9444444444444444
+Xanadu,71,67,4,0.9436619718309859
+Curtains,70,66,4,0.9428571428571428
+Damn Yankees,69,61,8,0.8840579710144928
+Doubt,69,65,4,0.9420289855072463
+Priscilla Queen of the Desert,69,65,4,0.9420289855072463
+Rumors,68,64,4,0.9411764705882353
+The Light in the Piazza,68,64,4,0.9411764705882353
+Side Man,68,56,12,0.8235294117647058
+Tarzan,68,64,4,0.9411764705882353
+Fela!,67,59,8,0.8805970149253731
+Prelude to a Kiss,67,59,8,0.8805970149253731
+A Streetcar Named Desire,66,50,16,0.7575757575757576
+Saturday Night Fever,66,62,4,0.9393939393939394
+Million Dollar Quartet,66,62,4,0.9393939393939394
+The Heiress,66,58,8,0.8787878787878788
+Young Frankenstein,65,61,4,0.9384615384615385
+Wonderful Town,65,61,4,0.9384615384615385
+Golda's Balcony,65,57,8,0.8769230769230769
+A Few Good Men,65,61,4,0.9384615384615385
+Falsettos,64,60,4,0.9375
+Nice Work If You Can Get It,64,60,4,0.9375
+Swing!,63,59,4,0.9365079365079365
+Six Degrees of Separation,62,58,4,0.9354838709677419
+Song and Dance,62,58,4,0.9354838709677419
+A Gentleman's Guide to Love and Murder,62,58,4,0.9354838709677419
+The Nerd,61,53,8,0.8688524590163934
+The Life,61,57,4,0.9344262295081968
+God of Carnage,61,53,8,0.8688524590163934
+Shrek the Musical,61,57,4,0.9344262295081968
+Once On This Island,61,57,4,0.9344262295081968
+Speed-the-Plow,60,52,8,0.8666666666666667
+Catskills on Broadway,59,55,4,0.9322033898305084
+The Rocky Horror Show,59,51,8,0.864406779661017
+An Inspector Calls,59,55,4,0.9322033898305084
+Jackie Mason: Politically Incorrect,59,43,16,0.7288135593220338
+Five Guys Named Moe,59,55,4,0.9322033898305084
+Beautiful: The Carole King Musical,58,54,4,0.9310344827586207
+Man of La Mancha,58,50,8,0.8620689655172413
+American Idiot,57,53,4,0.9298245614035088
+The House of Blue Leaves,56,44,12,0.7857142857142857
+Death of a Salesman,56,40,16,0.7142857142857143
+Burn This,56,52,4,0.9285714285714286
+A Little Night Music,56,48,8,0.8571428571428571
+Biloxi Blues,56,52,4,0.9285714285714286
+Dancing at Lughnasa,55,51,4,0.9272727272727272
+The Glass Menagerie,54,42,12,0.7777777777777778
+Brighton Beach Memoirs,54,46,8,0.8518518518518519
+Conversations with My Father,54,50,4,0.9259259259259259
+Little Shop of Horrors,52,48,4,0.9230769230769231
+Social Security,52,48,4,0.9230769230769231
+Metamorphoses,52,48,4,0.9230769230769231
+The Graduate,51,47,4,0.9215686274509803
+The Boy from Oz,51,43,8,0.8431372549019608
+Singin' in the Rain,50,46,4,0.92
+She Loves Me,50,42,8,0.84
+I Am My Own Wife,50,42,8,0.84
+Aspects of Love,50,46,4,0.92
+Macbeth,50,31,19,0.62
+Fool Moon,49,37,12,0.7551020408163265
+Who's Afraid of Virginia Woolf?,49,41,8,0.8367346938775511
+A View from the Bridge,49,37,12,0.7551020408163265
+Company,49,41,8,0.8367346938775511
+"Say Goodnight, Gracie",49,45,4,0.9183673469387755
+The Dinner Party,48,44,4,0.9166666666666666
+The Beauty Queen of Leenane,48,44,4,0.9166666666666666
+Carousel,48,44,4,0.9166666666666666
+Take Me Out,48,44,4,0.9166666666666666
+Dirty Blonde,47,43,4,0.9148936170212766
+Coastal Disturbances,47,43,4,0.9148936170212766
+Noises Off,46,42,4,0.9130434782608695
+Evita,46,42,4,0.9130434782608695
+1776,46,38,8,0.8260869565217391
+Copenhagen,44,40,4,0.9090909090909091
+The Best Man,44,36,8,0.8181818181818182
+Aladdin,44,40,4,0.9090909090909091
+Follies,44,36,8,0.8181818181818182
+Peter and the Starcatcher,43,39,4,0.9069767441860465
+Laughter on the 23rd Floor,43,39,4,0.9069767441860465
+Arcadia,43,35,8,0.813953488372093
+Grey Gardens,43,39,4,0.9069767441860465
+If/Then,43,39,4,0.9069767441860465
+"The Goat, or Who Is Sylvia?",43,35,8,0.813953488372093
+Moon Over Buffalo,42,38,4,0.9047619047619048
+Having Our Say,42,38,4,0.9047619047619048
+Passion,42,38,4,0.9047619047619048
+Dame Edna: The Royal Tour,42,38,4,0.9047619047619048
+Shirley Valentine,42,38,4,0.9047619047619048
+Jesus Christ Superstar,42,34,8,0.8095238095238095
+The Piano Lesson,42,38,4,0.9047619047619048
+Sunday in the Park with George,42,34,8,0.8095238095238095
+Chitty Chitty Bang Bang,41,37,4,0.9024390243902439
+Porgy and Bess,41,37,4,0.9024390243902439
+Lettice and Lovage,41,37,4,0.9024390243902439
+"Promises, Promises",41,37,4,0.9024390243902439
+Love Thy Neighbor,41,33,8,0.8048780487804879
+Bombay Dreams,40,36,4,0.9
+Race,40,36,4,0.9
+Tru,40,36,4,0.9
+An Ideal Husband,40,36,4,0.9
+Brooklyn,40,36,4,0.9
+Peter Pan,40,24,16,0.6
+The Wedding Singer,40,36,4,0.9
+Hedwig and the Angry Inch,40,36,4,0.9
+Nine,39,35,4,0.8974358974358975
+Romance / Romance,39,35,4,0.8974358974358975
+700 Sundays,38,22,16,0.5789473684210527
+Present Laughter,38,30,8,0.7894736842105263
+Boeing-Boeing,38,34,4,0.8947368421052632
+Jackie Mason: Brand New,38,34,4,0.8947368421052632
+Rain: A Tribute to the Beatles,38,30,8,0.7894736842105263
+Hedda Gabler,38,26,12,0.6842105263157895
+Blithe Spirit,37,29,8,0.7837837837837838
+Hamlet,37,25,12,0.6756756756756757
+Much Ado About Everything,37,33,4,0.8918918918918919
+After Midnight,37,33,4,0.8918918918918919
+It Ain't Nothin' But the Blues,37,29,8,0.7837837837837838
+Shakespeare for My Father,37,33,4,0.8918918918918919
+A Delicate Balance,37,29,8,0.7837837837837838
+Godspell,37,33,4,0.8918918918918919
+The Weir,36,32,4,0.8888888888888888
+Other Desert Cities,36,32,4,0.8888888888888888
+Long Day's Journey Into Night,36,24,12,0.6666666666666666
+Love! Valour! Compassion!,35,31,4,0.8857142857142857
+Private Lives,35,23,12,0.6571428571428571
+Glengarry Glen Ross,35,27,8,0.7714285714285715
+Lombardi,35,31,4,0.8857142857142857
+Tango Argentino,34,26,8,0.7647058823529411
+Barrymore,34,30,4,0.8823529411764706
+Born Yesterday,34,26,8,0.7647058823529411
+Meet Me in St. Louis,34,30,4,0.8823529411764706
+Frankie and Johnny in the Clair de Lune,33,29,4,0.8787878787878788
+Twelve Angry Men,33,29,4,0.8787878787878788
+Jake's Women,33,29,4,0.8787878787878788
+Les Liaisons Dangereuses,33,25,8,0.7575757575757576
+The Real Thing,33,25,8,0.7575757575757576
+The Most Happy Fella,32,28,4,0.875
+All Shook Up,32,28,4,0.875
+As Is,31,27,4,0.8709677419354839
+Joseph and the Amazing Technicolor Dreamcoat,31,27,4,0.8709677419354839
+La Boheme,31,27,4,0.8709677419354839
+Our Town,31,23,8,0.7419354838709677
+The Sunshine Boys,31,27,4,0.8709677419354839
+Time Stands Still,31,23,8,0.7419354838709677
+Indiscretions,31,27,4,0.8709677419354839
+Jane Eyre,31,27,4,0.8709677419354839
+Doubles,31,27,4,0.8709677419354839
+Buddy,30,26,4,0.8666666666666667
+Bridge & Tunnel,30,26,4,0.8666666666666667
+November,30,26,4,0.8666666666666667
+Someone Who'll Watch Over Me,30,26,4,0.8666666666666667
+The Diary of Anne Frank,30,26,4,0.8666666666666667
+Betrayal,30,22,8,0.7333333333333333
+A Raisin in the Sun,30,22,8,0.7333333333333333
+The Merchant of Venice,30,19,11,0.6333333333333333
+Benefactors,29,25,4,0.8620689655172413
+Seussical,29,25,4,0.8620689655172413
+Venus in Fur,29,21,8,0.7241379310344828
+Arsenic and Old Lace,29,25,4,0.8620689655172413
+Pygmalion,29,21,8,0.7241379310344828
+The Trip to Bountiful,29,25,4,0.8620689655172413
+The Coast of Utopia,29,21,8,0.7241379310344828
+Joe Turner's Come and Gone,28,20,8,0.7142857142857143
+On the Town,28,20,8,0.7142857142857143
+A Moon for the Misbegotten,28,20,8,0.7142857142857143
+QED,28,20,8,0.7142857142857143
+The Importance of Being Earnest,28,24,4,0.8571428571428571
+The Homecoming,28,20,8,0.7142857142857143
+Once Upon a Mattress,28,24,4,0.8571428571428571
+The Price,28,20,8,0.7142857142857143
+Seminar,28,24,4,0.8571428571428571
+Stones in His Pockets,27,23,4,0.8518518518518519
+Rocky,27,23,4,0.8518518518518519
+Lady Day at Emerson's Bar and Grill,27,19,8,0.7037037037037037
+Come Fly Away,27,23,4,0.8518518518518519
+Russell Simmons Def Poetry Jam,27,23,4,0.8518518518518519
+Inherit the Wind,27,19,8,0.7037037037037037
+The Circle,27,23,4,0.8518518518518519
+The Iceman Cometh,27,19,8,0.7037037037037037
+Driving Miss Daisy,27,23,4,0.8518518518518519
+The Goodbye Girl,27,23,4,0.8518518518518519
+Big,27,23,4,0.8518518518518519
+The Pillowman,26,22,4,0.8461538461538461
+Taking Sides,26,18,8,0.6923076923076923
+Jackie Mason: Freshly Squeezed,26,22,4,0.8461538461538461
+Catch Me If You Can,26,22,4,0.8461538461538461
+Love Letters,26,18,8,0.6923076923076923
+The Old Neighborhood,26,22,4,0.8461538461538461
+Waiting in the Wings,26,22,4,0.8461538461538461
+Dame Edna: Back with a Vengeance,26,22,4,0.8461538461538461
+Seven Guitars,26,22,4,0.8461538461538461
+First Date,26,22,4,0.8461538461538461
+Bring It On: The Musical,25,21,4,0.84
+Threepenny Opera,25,17,8,0.68
+Burn the Floor,25,21,4,0.84
+Blast!,25,21,4,0.84
+The History Boys,25,21,4,0.84
+Medea,25,17,8,0.68
+Sly Fox,25,21,4,0.84
+Flower Drum Song,25,21,4,0.84
+Side Show,25,17,8,0.68
+Vanya and Sonia and Masha and Spike,25,21,4,0.84
+The Grapes of Wrath,25,21,4,0.84
+Passing Strange,24,20,4,0.8333333333333334
+Democracy,24,20,4,0.8333333333333334
+Checkmates,24,20,4,0.8333333333333334
+Marc Salem's Mind Games on Broadway,24,12,12,0.5
+Little Women,24,20,4,0.8333333333333334
+Baby It's You!,24,20,4,0.8333333333333334
+Bullets Over Broadway,24,20,4,0.8333333333333334
+The Year of Magical Thinking,24,16,8,0.6666666666666666
+Cyrano de Bergerac,24,16,8,0.6666666666666666
+Freak,24,20,4,0.8333333333333334
+True West,24,20,4,0.8333333333333334
+Martin Short: Fame Becomes Me,24,20,4,0.8333333333333334
+The Crucible,24,16,8,0.6666666666666666
+Closer,24,20,4,0.8333333333333334
+Death and the Maiden,24,20,4,0.8333333333333334
+Amadeus,23,19,4,0.8260869565217391
+Dreamgirls,23,19,4,0.8260869565217391
+"Dracula, the Musical",23,19,4,0.8260869565217391
+Ain't Misbehavin',23,19,4,0.8260869565217391
+Ghost The Musical,23,19,4,0.8260869565217391
+A Doll's House,23,19,4,0.8260869565217391
+Sweet Sue,23,19,4,0.8260869565217391
+Breaking the Code,23,19,4,0.8260869565217391
+My Fair Lady,23,19,4,0.8260869565217391
+The Night of the Iguana,23,15,8,0.6521739130434783
+No Man's Land / Waiting for Godot,23,19,4,0.8260869565217391
+Clybourne Park,23,19,4,0.8260869565217391
+Shadowlands,23,19,4,0.8260869565217391
+Equus,23,19,4,0.8260869565217391
+End of the Rainbow,22,18,4,0.8181818181818182
+Cyrano - The Musical,22,18,4,0.8181818181818182
+The Seagull,22,14,8,0.6363636363636364
+Kat and the Kings,22,18,4,0.8181818181818182
+"One Man, Two Guvnors",22,18,4,0.8181818181818182
+The Pajama Game,22,18,4,0.8181818181818182
+9 to 5,22,18,4,0.8181818181818182
+The Seafarer,22,18,4,0.8181818181818182
+High Society,22,18,4,0.8181818181818182
+All My Sons,22,14,8,0.6363636363636364
+Topdog / Underdog,22,18,4,0.8181818181818182
+Sexaholix,22,14,8,0.6363636363636364
+The Retreat from Moscow,22,18,4,0.8181818181818182
+A Bronx Tale,21,17,4,0.8095238095238095
+"You're a Good Man, Charlie Brown",21,17,4,0.8095238095238095
+La Bete,21,13,8,0.6190476190476191
+A Night With Janis Joplin,21,17,4,0.8095238095238095
+Rock 'n' Roll,21,17,4,0.8095238095238095
+Jerusalem,21,17,4,0.8095238095238095
+Two Trains Running,21,17,4,0.8095238095238095
+Dr. Seuss' How the Grinch Stole Christmas!,21,13,8,0.6190476190476191
+A Thousand Clowns,21,13,8,0.6190476190476191
+Frost/Nixon,21,17,4,0.8095238095238095
+The Gin Game,21,13,8,0.6190476190476191
+The Nance,21,17,4,0.8095238095238095
+Enchanted April,21,17,4,0.8095238095238095
+Jackie,21,17,4,0.8095238095238095
+Fortune's Fool,20,16,4,0.8
+The Farnsworth Invention,20,16,4,0.8
+The Caretaker,20,12,8,0.6
+A Walk in the Woods,20,16,4,0.8
+Jerry's Girls,20,15,5,0.75
+Violet,20,16,4,0.8
+Steel Magnolias,20,16,4,0.8
+Next Fall,20,16,4,0.8
+Night Must Fall,20,12,8,0.6
+Colin Quinn: Long Story Short,20,16,4,0.8
+Bye Bye Birdie,20,16,4,0.8
+Largely New York,20,16,4,0.8
+One Flew Over the Cuckoo's Nest,20,16,4,0.8
+Chaplin,20,16,4,0.8
+"Caroline, or Change",20,16,4,0.8
+Picnic,20,12,8,0.6
+The Lieutenant of Inishmore,20,16,4,0.8
+All The Way,20,16,4,0.8
+Ghetto Klown,20,16,4,0.8
+Mary Stuart,20,16,4,0.8
+You Never Can Tell,19,15,4,0.7894736842105263
+"""Mummenschanz: """"The New Show""""""",19,15,4,0.7894736842105263
+Corpse!,19,15,4,0.7894736842105263
+Relatively Speaking,19,15,4,0.7894736842105263
+Deuce,19,15,4,0.7894736842105263
+Tartuffe,19,11,8,0.5789473684210527
+Ann,19,15,4,0.7894736842105263
+This Is Our Youth,19,15,4,0.7894736842105263
+Thurgood,19,15,4,0.7894736842105263
+Lucky Guy,19,15,4,0.7894736842105263
+The Assembled Parties,19,15,4,0.7894736842105263
+Of Mice and Men,19,15,4,0.7894736842105263
+Talk Radio,19,15,4,0.7894736842105263
+You Can't Take It With You,18,14,4,0.7777777777777778
+A Catered Affair,18,14,4,0.7777777777777778
+Mothers and Sons,18,14,4,0.7777777777777778
+Morning's at Seven,18,14,4,0.7777777777777778
+Those Were the Days,18,14,4,0.7777777777777778
+Twelfth Night / Richard III,18,14,4,0.7777777777777778
+The Devil's Disciple,18,14,4,0.7777777777777778
+The Elephant Man,18,10,8,0.5555555555555556
+The Invention of Love,18,14,4,0.7777777777777778
+Hay Fever,18,14,4,0.7777777777777778
+Elf,18,10,8,0.5555555555555556
+Electra,18,14,4,0.7777777777777778
+Good Vibrations,18,14,4,0.7777777777777778
+Mostly Sondheim,18,10,8,0.5555555555555556
+It's Only a Play,18,14,4,0.7777777777777778
+The Bridges of Madison County,18,14,4,0.7777777777777778
+Is He Dead?,18,14,4,0.7777777777777778
+The Vertical Hour,18,14,4,0.7777777777777778
+Sherlock's Last Case,18,14,4,0.7777777777777778
+The Motherf**ker With the Hat,18,14,4,0.7777777777777778
+Not About Nightingales,18,14,4,0.7777777777777778
+Journey's End,18,14,4,0.7777777777777778
+James Joyce's The Dead,18,14,4,0.7777777777777778
+The Musical Comedy Murders of 1940,18,14,4,0.7777777777777778
+The Mountaintop,18,14,4,0.7777777777777778
+Little Me,18,14,4,0.7777777777777778
+The Ride Down Mt. Morgan,18,14,4,0.7777777777777778
+Swan Lake,18,14,4,0.7777777777777778
+Uncle Vanya,17,9,8,0.5294117647058824
+Putting It Together,17,13,4,0.7647058823529411
+Legs Diamond,17,13,4,0.7647058823529411
+Bengal Tiger at the Baghdad Zoo,17,13,4,0.7647058823529411
+Park Your Car in Harvard Yard,17,13,4,0.7647058823529411
+Barefoot in the Park,17,13,4,0.7647058823529411
+Wishful Drinking,17,13,4,0.7647058823529411
+Frozen,17,13,4,0.7647058823529411
+Dream,17,13,4,0.7647058823529411
+Faith Healer,17,13,4,0.7647058823529411
+The Little Dog Laughed,17,13,4,0.7647058823529411
+Grace,17,13,4,0.7647058823529411
+The Capeman,17,13,4,0.7647058823529411
+Sweet Smell of Success,17,13,4,0.7647058823529411
+A Class Act,17,13,4,0.7647058823529411
+The Realistic Joneses,17,13,4,0.7647058823529411
+Dance of Death,17,13,4,0.7647058823529411
+Brief Encounter,17,13,4,0.7647058823529411
+Big Fish,17,13,4,0.7647058823529411
+The Woman in White,17,13,4,0.7647058823529411
+The Norman Conquests,16,12,4,0.75
+Never Gonna Dance,16,12,4,0.75
+Parade,16,12,4,0.75
+Red,16,12,4,0.75
+Superior Donuts,16,12,4,0.75
+Pal Joey,16,12,4,0.75
+Assassins,16,12,4,0.75
+13,16,12,4,0.75
+Penn & Teller,16,8,8,0.5
+Amy's View,16,12,4,0.75
+Anna in the Tropics,16,12,4,0.75
+Elaine Stritch at Liberty,16,12,4,0.75
+Good People,16,12,4,0.75
+Chinglish,16,12,4,0.75
+Romeo and Juliet,16,12,4,0.75
+On Borrowed Time,16,12,4,0.75
+The Curious Incident of the Dog in the Night-Time,16,12,4,0.75
+Life x 3,16,12,4,0.75
+"Hello, Dolly!",16,12,4,0.75
+Skylight,16,12,4,0.75
+The Frogs,16,12,4,0.75
+Latinologues,16,12,4,0.75
+That Championship Season,16,12,4,0.75
+The Country Girl,16,12,4,0.75
+Irena's Vow,16,12,4,0.75
+Irving Berlin's White Christmas,16,8,8,0.5
+110 in the Shade,16,12,4,0.75
+A Behanding in Spokane,16,12,4,0.75
+33 Variations,15,11,4,0.7333333333333333
+Bloody Bloody Andrew Jackson,15,11,4,0.7333333333333333
+Cry-Baby,15,11,4,0.7333333333333333
+The Miser,15,11,4,0.7333333333333333
+Stick Fly,15,11,4,0.7333333333333333
+State Fair,15,11,4,0.7333333333333333
+Waiting for Godot,15,11,4,0.7333333333333333
+[title of show],15,11,4,0.7333333333333333
+Via Dolorosa,15,11,4,0.7333333333333333
+The Play What I Wrote,15,11,4,0.7333333333333333
+Butley,15,11,4,0.7333333333333333
+Candide,15,11,4,0.7333333333333333
+An American Daughter,15,11,4,0.7333333333333333
+The Pirate Queen,15,11,4,0.7333333333333333
+Exit the King,15,11,4,0.7333333333333333
+The Lion in Winter,15,11,4,0.7333333333333333
+Epic Proportions,15,11,4,0.7333333333333333
+Triumph of Love,15,11,4,0.7333333333333333
+The Judas Kiss,15,11,4,0.7333333333333333
+Finian's Rainbow,15,11,4,0.7333333333333333
+Gray's Anatomy,15,7,8,0.4666666666666667
+Translations,15,7,8,0.4666666666666667
+Sondheim on Sondheim,15,11,4,0.7333333333333333
+Stardust,15,11,4,0.7333333333333333
+The Cripple of Inishmaan,15,11,4,0.7333333333333333
+Thou Shalt Not,15,11,4,0.7333333333333333
+The Apple Tree,15,11,4,0.7333333333333333
+Taboo,15,11,4,0.7333333333333333
+Swinging on a Star,15,11,4,0.7333333333333333
+The Man Who Came to Dinner,15,11,4,0.7333333333333333
+Dance of the Vampires,15,11,4,0.7333333333333333
+The Columnist,14,10,4,0.7142857142857143
+Hughie,14,6,8,0.42857142857142855
+Steel Pier,14,10,4,0.7142857142857143
+Reasons to Be Pretty,14,10,4,0.7142857142857143
+Wait Until Dark,14,10,4,0.7142857142857143
+Street Corner Symphony,14,10,4,0.7142857142857143
+On Golden Pond,14,10,4,0.7142857142857143
+A Man for All Seasons,14,10,4,0.7142857142857143
+As Long as We Both Shall Laugh,14,7,7,0.5
+The Wild Party,14,10,4,0.7142857142857143
+Disgraced,14,10,4,0.7142857142857143
+The Women,14,10,4,0.7142857142857143
+Penn & Teller: The Refrigerator Tour,14,10,4,0.7142857142857143
+Awake and Sing!,14,10,4,0.7142857142857143
+Orpheus Descending,14,10,4,0.7142857142857143
+Major Barbara,14,10,4,0.7142857142857143
+Heartbreak House,14,10,4,0.7142857142857143
+Twentieth Century,14,10,4,0.7142857142857143
+The Blue Room,14,10,4,0.7142857142857143
+Julius Caesar,14,10,4,0.7142857142857143
+Jumpers,14,10,4,0.7142857142857143
+Hot Feet,14,10,4,0.7142857142857143
+Eastern Standard,14,10,4,0.7142857142857143
+The Rainmaker,14,10,4,0.7142857142857143
+"Oh, Kay!",14,8,6,0.5714285714285714
+George Gershwin Alone,14,10,4,0.7142857142857143
+I Hate Hamlet,14,10,4,0.7142857142857143
+Blood Knot,14,10,4,0.7142857142857143
+Reckless,13,9,4,0.6923076923076923
+Rabbit Hole,13,9,4,0.6923076923076923
+Judgment at Nuremberg,13,9,4,0.6923076923076923
+The Lyons,13,9,4,0.6923076923076923
+The Marriage of Figaro,13,9,4,0.6923076923076923
+Metamorphosis,13,6,7,0.46153846153846156
+Shining City,13,9,4,0.6923076923076923
+The Last Ship,13,9,4,0.6923076923076923
+Don't Get God Started,13,9,4,0.6923076923076923
+I'll Eat You Last: A Chat With Sue Mengers,13,9,4,0.6923076923076923
+Starmites,13,9,4,0.6923076923076923
+The Boys from Syracuse,13,9,4,0.6923076923076923
+Loot,13,9,4,0.6923076923076923
+Soul Doctor,13,9,4,0.6923076923076923
+Hollywood Arms,13,9,4,0.6923076923076923
+A Steady Rain,13,9,4,0.6923076923076923
+Act One,13,9,4,0.6923076923076923
+Twelfth Night,13,7,6,0.5384615384615384
+The Constant Wife,13,9,4,0.6923076923076923
+Arms and the Man,13,9,4,0.6923076923076923
+The Ritz,13,9,4,0.6923076923076923
+Oba Oba '90,13,5,8,0.38461538461538464
+The Pitmen Painters,13,9,4,0.6923076923076923
+Casa Valentina,13,9,4,0.6923076923076923
+Mule Bone,13,9,4,0.6923076923076923
+Mrs. Warren's Profession,13,9,4,0.6923076923076923
+Chita Rivera: The Dancer's Life,13,9,4,0.6923076923076923
+Design for Living,13,9,4,0.6923076923076923
+The Young Man from Atlanta,13,9,4,0.6923076923076923
+Ring Round the Moon,13,9,4,0.6923076923076923
+The Royal Family,13,9,4,0.6923076923076923
+Women on the Verge of a Nervous Breakdown,13,9,4,0.6923076923076923
+45 Seconds from Broadway,13,9,4,0.6923076923076923
+Bells Are Ringing,13,9,4,0.6923076923076923
+Whoopi,13,9,4,0.6923076923076923
+Urban Cowboy,12,8,4,0.6666666666666666
+Vincent in Brixton,12,8,4,0.6666666666666666
+"'night, Mother",12,8,4,0.6666666666666666
+A Free Man of Color,12,8,4,0.6666666666666666
+Old Acquaintance,12,8,4,0.6666666666666666
+Pacific Overtures,12,8,4,0.6666666666666666
+A Tale of Two Cities,12,8,4,0.6666666666666666
+On a Clear Day You Can See Forever,12,8,4,0.6666666666666666
+A Touch of the Poet,12,8,4,0.6666666666666666
+Accent on Youth,12,8,4,0.6666666666666666
+Ring of Fire,12,8,4,0.6666666666666666
+Mastergate,12,8,4,0.6666666666666666
+The Tempest,12,8,4,0.6666666666666666
+Sight Unseen,12,8,4,0.6666666666666666
+"Shogun, the Musical",12,8,4,0.6666666666666666
+After the Fall,12,8,4,0.6666666666666666
+Man and Boy,12,8,4,0.6666666666666666
+Stepping Out,12,8,4,0.6666666666666666
+Stanley,12,8,4,0.6666666666666666
+Three Days of Rain,12,8,4,0.6666666666666666
+After Miss Julie,12,8,4,0.6666666666666666
+Everyday Rapture,12,8,4,0.6666666666666666
+A Naked Girl on the Appian Way,12,8,4,0.6666666666666666
+A Grand Night for Singing,12,8,4,0.6666666666666666
+Don't Dress For Dinner,12,8,4,0.6666666666666666
+A Day in the Death of Joe Egg,12,8,4,0.6666666666666666
+The Chairs,12,8,4,0.6666666666666666
+The Philanthropist,12,8,4,0.6666666666666666
+In the Next Room,12,8,4,0.6666666666666666
+The Boys in Autumn,12,8,4,0.6666666666666666
+Imaginary Friends,12,8,4,0.6666666666666666
+The Civil War,12,8,4,0.6666666666666666
+Harvey,12,8,4,0.6666666666666666
+Henry IV,12,8,4,0.6666666666666666
+The People in the Picture,12,8,4,0.6666666666666666
+The Other Place,12,8,4,0.6666666666666666
+The American Plan,12,8,4,0.6666666666666666
+Taller Than a Dwarf,12,8,4,0.6666666666666666
+Lennon,12,8,4,0.6666666666666666
+The Road to Mecca,12,8,4,0.6666666666666666
+King Hedley II,12,8,4,0.6666666666666666
+Laugh Whore,12,8,4,0.6666666666666666
+The Normal Heart,12,8,4,0.6666666666666666
+The Deep Blue Sea,12,8,4,0.6666666666666666
+Getting Married,12,8,4,0.6666666666666666
+The Snow Geese,11,7,4,0.6363636363636364
+Impressionism,11,7,4,0.6363636363636364
+In My Life,11,7,4,0.6363636363636364
+By Jeeves,11,7,4,0.6363636363636364
+The Big Knife,11,7,4,0.6363636363636364
+Match,11,7,4,0.6363636363636364
+Mauritius,11,7,4,0.6363636363636364
+An Enemy of the People,11,7,4,0.6363636363636364
+Buried Child,11,7,4,0.6363636363636364
+It's a Slippery Slope,11,7,4,0.6363636363636364
+Teddy &amp; Alice,11,7,4,0.6363636363636364
+Ivanov,11,7,4,0.6363636363636364
+"Come Back, Little Sheba",11,7,4,0.6363636363636364
+The Man Who Had All the Luck,11,7,4,0.6363636363636364
+The Marriage of Kitty,11,7,4,0.6363636363636364
+The Little Foxes,11,7,4,0.6363636363636364
+The Look of Love,11,7,4,0.6363636363636364
+Precious Sons,11,7,4,0.6363636363636364
+Wit,11,7,4,0.6363636363636364
+Proposals,11,7,4,0.6363636363636364
+Brooklyn Boy,11,7,4,0.6363636363636364
+Dividing the Estate,11,7,4,0.6363636363636364
+Gem of the Ocean,11,7,4,0.6363636363636364
+The Father,11,7,4,0.6363636363636364
+The Comedy of Errors,11,7,4,0.6363636363636364
+Golden Boy,11,7,4,0.6363636363636364
+The Country House,11,7,4,0.6363636363636364
+The Front Page,11,7,4,0.6363636363636364
+I'm Still Here...Damn It!,11,7,4,0.6363636363636364
+The Rose Tattoo,11,7,4,0.6363636363636364
+Machinal,11,7,4,0.6363636363636364
+The Petition,11,7,4,0.6363636363636364
+Honour,11,7,4,0.6363636363636364
+"Morning, Noon and Night",11,7,4,0.6363636363636364
+Seascape,11,7,4,0.6363636363636364
+Absurd Person Singular,11,7,4,0.6363636363636364
+A Year with Frog and Toad,11,7,4,0.6363636363636364
+Chess,11,7,4,0.6363636363636364
+The Rehearsal,11,7,4,0.6363636363636364
+Broken Glass,11,7,4,0.6363636363636364
+Radio Golf,11,7,4,0.6363636363636364
+Outside Mullingar,11,7,4,0.6363636363636364
+Voices in the Dark,11,7,4,0.6363636363636364
+Top Girls,11,7,4,0.6363636363636364
+No Man's Land,11,7,4,0.6363636363636364
+My Favorite Year,11,7,4,0.6363636363636364
+"Ah, Wilderness!",11,7,4,0.6363636363636364
+The Winslow Boy,11,7,4,0.6363636363636364
+An Almost Holy Picture,11,7,4,0.6363636363636364
+Ma Rainey's Black Bottom,11,7,4,0.6363636363636364
+Bea Arthur on Broadway,11,7,4,0.6363636363636364
+Souvenir,11,7,4,0.6363636363636364
+The Three Sisters,11,7,4,0.6363636363636364
+"Twilight: Los Angeles, 1992",11,7,4,0.6363636363636364
+Lovemusik,11,7,4,0.6363636363636364
+Marie Christine,11,7,4,0.6363636363636364
+London Assurance,11,7,4,0.6363636363636364
+Matters of the Heart,10,6,4,0.6
+Salome,10,6,4,0.6
+Oleanna,10,6,4,0.6
+Big Deal,10,6,4,0.6
+Play On!,10,6,4,0.6
+A Month in the Country,10,6,4,0.6
+Drowning Crow,10,6,4,0.6
+A Small Family Business,10,6,4,0.6
+A Midsummer Night's Dream,10,6,4,0.6
+Jay Johnson: The Two and Only,10,6,4,0.6
+The Real Inspector Hound and the Fifteen Minute Hamlet,10,6,4,0.6
+A Life in the Theatre,10,6,4,0.6
+Dinner at Eight,10,6,4,0.6
+Cuba and His Teddy Bear,10,6,4,0.6
+Cymbeline,10,6,4,0.6
+The Green Bird,10,6,4,0.6
+Collected Stories,10,6,4,0.6
+Golden Child,10,6,4,0.6
+The Gospel at Colonus,10,6,4,0.6
+Cirque Dreams,10,6,4,0.6
+Summer and Smoke,10,6,4,0.6
+The Violet Hour,10,6,4,0.6
+Nick & Nora,10,6,4,0.6
+Sex and Longing,10,6,4,0.6
+Anna Christie,10,6,4,0.6
+The Tenth Man,10,6,4,0.6
+The Tap Dance Kid,10,6,4,0.6
+Losing Louie,10,6,4,0.6
+The Scottsboro Boys,10,6,4,0.6
+Lestat,10,6,4,0.6
+If You Ever Leave Me...I'm Going with You!,10,6,4,0.6
+The Pee-wee Herman Show,10,6,4,0.6
+Chinese Coffee,10,6,4,0.6
+"Hugh Jackman, Back on Broadway",10,6,4,0.6
+The Play's the Thing,10,6,4,0.6
+King Lear,10,6,4,0.6
+After the Night and the Music,10,6,4,0.6
+Sally Marr...and Her Escorts,10,6,4,0.6
+Accomplice,10,6,4,0.6
+Well,10,6,4,0.6
+"""""""Master Harold""""...and the Boys""",10,6,4,0.6
+"Philadelphia, Here I Come!",10,6,4,0.6
+To Be Or Not to Be,9,5,4,0.5555555555555556
+Oh Coward!,9,5,4,0.5555555555555556
+The Show Off,9,5,4,0.5555555555555556
+The Shadow Box,9,5,4,0.5555555555555556
+Lysistrata Jones,9,5,4,0.5555555555555556
+An Evening with Patti LuPone and Mandy Patinkin,9,5,4,0.5555555555555556
+The Visit,9,5,4,0.5555555555555556
+Mixed Emotions,9,5,4,0.5555555555555556
+Scandalous: The Life and Trials of Aimee Semple McPherson,9,5,4,0.5555555555555556
+Search and Destroy,9,5,4,0.5555555555555556
+Abe Lincoln in Illinois,9,5,4,0.5555555555555556
+Juan Darien,9,5,4,0.5555555555555556
+The River,9,5,4,0.5555555555555556
+Bonnie & Clyde,9,5,4,0.5555555555555556
+The Rivals,9,5,4,0.5555555555555556
+Festen,9,5,4,0.5555555555555556
+A Christmas Carol,9,0,9,0.0
+Dead Accounts,9,5,4,0.5555555555555556
+The Good Body,9,5,4,0.5555555555555556
+Four Baboons Adoring the Sun,9,5,4,0.5555555555555556
+Holiday,9,5,4,0.5555555555555556
+The Cemetery Club,9,5,4,0.5555555555555556
+Candida,9,5,4,0.5555555555555556
+Chu Chem,9,5,4,0.5555555555555556
+Chronicle of a Death Foretold,9,5,4,0.5555555555555556
+The Song of Jacob Zulu,8,4,4,0.5
+You're Welcome America,8,4,4,0.5
+Prune Danish,8,4,4,0.5
+A Little Like Magic,8,4,4,0.5
+Racing Demon,8,4,4,0.5
+Wonderland,8,4,4,0.5
+Zoya's Apartment,8,4,4,0.5
+The Life and Adventures of Nicholas Nickleby,8,4,4,0.5
+Ghetto,8,4,4,0.5
+The Miracle Worker,8,4,4,0.5
+Bronx Bombers,8,4,4,0.5
+Camelot,8,4,4,0.5
+Some Americans Abroad,8,4,4,0.5
+The Smell of the Kill,8,4,4,0.5
+Anna Karenina,8,4,4,0.5
+So Long on Lonely Street,8,4,4,0.5
+Smile,8,4,4,0.5
+The Times They Are A-Changin',8,4,4,0.5
+Three Men on a Horse,8,4,4,0.5
+Michael Feinstein in Concert,8,4,4,0.5
+"""Mandy Patinkin in Concert: """"Dress Casual""""""",8,4,4,0.5
+Patti LuPone on Broadway,8,4,4,0.5
+Two Shakespearean Actors,8,4,4,0.5
+Our Country's Good,8,4,4,0.5
+A Time to Kill,8,4,4,0.5
+Rose,8,4,4,0.5
+Orphans,8,4,4,0.5
+Run for Your Wife,8,4,4,0.5
+Saint Joan,8,4,4,0.5
+Oba Oba,8,4,4,0.5
+Magic/Bird,8,4,4,0.5
+Looped,8,4,4,0.5
+Hands on a Hardbody,8,4,4,0.5
+The Lonesome West,8,4,4,0.5
+"A Christmas Story, The Musical",8,4,4,0.5
+Getting and Spending,8,4,4,0.5
+Squonk,7,3,4,0.42857142857142855
+Mail,7,3,4,0.42857142857142855
+Spoils of War,7,3,4,0.42857142857142855
+Six Dance Lessons in Six Weeks,7,3,4,0.42857142857142855
+Aren't We All?,7,3,4,0.42857142857142855
+Redwood Curtain,7,3,4,0.42857142857142855
+"""The Flying Karamazov Brothers """"Do the Impossible""""""",7,3,4,0.42857142857142855
+Timon of Athens,7,3,4,0.42857142857142855
+The Speed of Darkness,7,3,4,0.42857142857142855
+Ain't Broadway Grand,7,3,4,0.42857142857142855
+Amour,7,3,4,0.42857142857142855
+Lillian,7,3,4,0.42857142857142855
+The Red Shoes,7,3,4,0.42857142857142855
+In the Summer House,7,3,4,0.42857142857142855
+Bus Stop,7,3,4,0.42857142857142855
+The Big Love,7,3,4,0.42857142857142855
+Let It Be,7,3,4,0.42857142857142855
+Leader of the Pack,7,3,4,0.42857142857142855
+Breakfast at Tiffany's,7,3,4,0.42857142857142855
+The Adventures of Tom Sawyer,7,3,4,0.42857142857142855
+Holler If Ya Hear Me,7,3,4,0.42857142857142855
+Death and the King's Horseman,7,3,4,0.42857142857142855
+The Master Builder,7,3,4,0.42857142857142855
+The Government Inspector,7,3,4,0.42857142857142855
+Flamenco Puro,7,3,4,0.42857142857142855
+Gypsy Passion,7,3,4,0.42857142857142855
+The Flowering Peach,7,3,4,0.42857142857142855
+3 from Brooklyn,7,3,4,0.42857142857142855
+A Little Hotel on the Side,7,3,4,0.42857142857142855
+"Wilder, Wilder, Wilder",6,2,4,0.3333333333333333
+Primo,6,2,4,0.3333333333333333
+Wrong Mountain,6,2,4,0.3333333333333333
+The Kentucky Cycle,6,2,4,0.3333333333333333
+Desire Under the Elms,6,2,4,0.3333333333333333
+Artist Descending a Staircase,6,2,4,0.3333333333333333
+The Testament of Mary,6,2,4,0.3333333333333333
+The Twilight of the Golds,6,2,4,0.3333333333333333
+An Evening with Jerry Herman,6,2,4,0.3333333333333333
+Leap of Faith,6,2,4,0.3333333333333333
+Manilow on Broadway,6,1,5,0.16666666666666666
+The Best Little Whorehouse Goes Public,6,2,4,0.3333333333333333
+Jackie Mason's Laughing Room Only,6,2,4,0.3333333333333333
+The Caine Mutiny Court-Martial,6,2,4,0.3333333333333333
+Buttons on Broadway,6,2,4,0.3333333333333333
+Cafe Crown,6,2,4,0.3333333333333333
+Honeymoon in Vegas,6,2,4,0.3333333333333333
+"Harry Connick, Jr. in Concert on Broadway",6,0,6,0.0
+The Gershwins' Fascinating Rhythm,6,2,4,0.3333333333333333
+Getting Away with Murder,6,2,4,0.3333333333333333
+Coram Boy,6,2,4,0.3333333333333333
+Shenandoah,6,2,4,0.3333333333333333
+All About Me,6,2,4,0.3333333333333333
+Truly Blessed,6,2,4,0.3333333333333333
+Any Given Day,6,2,4,0.3333333333333333
+Solitary Confinement,5,1,4,0.2
+Band in Berlin,5,1,4,0.2
+Minnelli on Minnelli,5,1,4,0.2
+Metro,5,1,4,0.2
+Uptown...It's Hot!,5,1,4,0.2
+"""Michael Feinstein in Concert: """"Isn't It Romantic""""""",5,1,4,0.2
+Wild Honey,5,1,4,0.2
+What's Wrong with This Picture?,5,1,4,0.2
+A Change in the Heir,5,1,4,0.2
+The Herbal Bed,5,1,4,0.2
+David Copperfield: Dreams and Nightmares,5,1,4,0.2
+The Illusionists - Witness the Impossible,5,1,4,0.2
+Love/Life,5,1,4,0.2
+Marlene,5,1,4,0.2
+Lucifer's Child,5,1,4,0.2
+Sixteen Wounded,5,1,4,0.2
+Kiki & Herb: Alive on Broadway,5,1,4,0.2
+Liza's at the Palace....,5,1,4,0.2
+Serious Money,5,1,4,0.2
+Asinamali!,5,1,4,0.2
+The Anarchist,5,1,4,0.2
+The Boys of Winter,5,1,4,0.2
+The Mikado,5,1,4,0.2
+The School for Scandal,5,1,4,0.2
+High,5,1,4,0.2
+The Gathering,5,1,4,0.2
+Enron,5,1,4,0.2
+Gentlemen Prefer Blondes,5,1,4,0.2
+Slava's Snowshow,5,1,4,0.2
+Sleight of Hand,5,1,4,0.2
+Paul Robeson,5,0,5,0.0
+The Velocity of Autumn,5,1,4,0.2
+"""Julia Sweeney's God Said """"Ha!""""""",5,1,4,0.2
+One Mo' Time,5,1,4,0.2
+Welcome to the Club,4,0,4,0.0
+"""Mandy Patinkin in Concert: """"Mamaloshen""""""",4,0,4,0.0
+The High Rollers Social and Pleasure Club,4,0,4,0.0
+Prymate,4,0,4,0.0
+Wonderful Tennessee,4,0,4,0.0
+Wind in the Willows,4,0,4,0.0
+Sacrilege,4,0,4,0.0
+Safe Sex,4,0,4,0.0
+Donny & Marie - A Broadway Christmas,4,0,4,0.0
+Elling,4,0,4,0.0
+My Thing of Love,4,0,4,0.0
+Stand-Up Tragedy,4,0,4,0.0
+Moscow Circus - Cirk Valentin,4,0,4,0.0
+Mort Sahl on Broadway!,4,0,4,0.0
+Aznavour,4,0,4,0.0
+Michael Feinstein in Concert: Piano and Voice,4,0,4,0.0
+Mandy Patinkin in Concert,4,0,4,0.0
+The Secret Rapture,4,0,4,0.0
+Colin Quinn -- An Irish Wake,4,0,4,0.0
+The Performers,4,0,4,0.0
+The Rise and Fall of Little Voice,4,0,4,0.0
+High Fidelity,4,0,4,0.0
+Hizzoner!,4,0,4,0.0
+The Mystery of Charles Dickens,4,0,4,0.0
+"""The Flying Karamazov Brothers """"Juggling and Cheap Theatrics""""""",4,0,4,0.0
+A Tuna Christmas,4,0,4,0.0
+Oldest Living Confederate Widow Tells All,4,0,4,0.0
+Barbara Cook's Broadway!,4,0,4,0.0
+Barbara Cook: A Concert for the Theatre,4,0,4,0.0
+American Buffalo,4,0,4,0.0
+Roza,4,0,4,0.0
+A Little More Magic,3,0,3,0.0
+A Mom's Life,3,0,3,0.0
+A Month of Sundays,3,0,3,0.0
+On the Waterfront,3,0,3,0.0
+Rags,3,0,3,0.0
+Prince of Central Park,3,0,3,0.0
+The Blonde in the Thunderbird,3,0,3,0.0
+Into the Light,3,0,3,0.0
+Soul of Shaolin,3,0,3,0.0
+Miss Margarida's Way,3,0,3,0.0
+More to Love,3,0,3,0.0
+Carrie,3,0,3,0.0
+Canciones De Mi Padre,3,0,3,0.0
+The Boys Choir of Harlem and Friends,3,0,3,0.0
+Honky Tonk Nights,3,0,3,0.0
+Glory Days,3,0,3,0.0
+Crazy He Calls Me,3,0,3,0.0
+Execution of Justice,3,0,3,0.0
+Bill Maher: Victory Begins at Home,3,0,3,0.0
+The Regard of Flight,3,0,3,0.0
+The Rascals: Once Upon a Dream,3,0,3,0.0
+Juno and the Paycock,3,0,3,0.0
+Jack: A Night on the Town with John Barrymore,3,0,3,0.0
+Jerome Kern Goes to Hollywood,3,0,3,0.0
+The Apple Doesn't Fall...,3,0,3,0.0
+Mark Twain Tonight!,3,0,3,0.0
+Late Nite Comic,3,0,3,0.0
+Andre Heller's Wonderhouse,3,0,3,0.0
+The Story of My Life,3,0,3,0.0
+Raggedy Ann,3,0,3,0.0
+Shatner's World: We Just Live in It,3,0,3,0.0
+Shimada,3,0,3,0.0
+Danny Gans on Broadway: The Man of Many Voices,2,0,2,0.0
+Dangerous Games,2,0,2,0.0
+King David,2,0,2,0.0
+Constellations,2,0,2,0.0
+Comedy Tonight,2,0,2,0.0
+Grind,2,0,2,0.0
+The Cherry Orchard,2,0,2,0.0
+Lewis Black: Running On Empty,2,0,2,0.0
+Kathy Griffin Wants a Tony,2,0,2,0.0
+Tango Pasion,2,0,2,0.0
+Frankie Valli and the Four Seasons On Broadway,2,0,2,0.0
+Tommy Tune Tonite!,2,0,2,0.0
+Rowan Atkinson at the Atkinson,2,0,2,0.0
+Basia on Broadway,2,0,2,0.0
+Sid Caesar & Company,2,0,2,0.0
+Patti LaBelle on Broadway,2,0,2,0.0
+Mike Tyson: Undisputed Truth,2,0,2,0.0
+Ian McKellen: A Knight Out at the Lyceum,1,0,1,0.0
+Face Value,1,0,1,0.0
+Jerry Seinfeld: Live on Broadway,1,0,1,0.0
+Broadway,1,0,1,0.0
+Bobbi Boland,1,0,1,0.0
+Il Divo - A Musical Affair: The Greatest Songs of Broadway,1,0,1,0.0
+Eugene Onegin,1,0,1,0.0
+"Men Are from Mars, Women Are from Venus",1,0,1,0.0
+Senator Joe,1,0,1,0.0
+Raffi,1,0,1,0.0

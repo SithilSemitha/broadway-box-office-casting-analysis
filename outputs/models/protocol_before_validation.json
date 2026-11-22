@@ -1,0 +1,74 @@
+{
+  "recorded_at_utc": "2026-11-16T15:33:06.757341+00:00",
+  "predictors": [
+    "weekly_gross_lag1",
+    "seats_sold_lag1",
+    "pct_capacity_lag1",
+    "performances_lag1",
+    "previews_lag1",
+    "gross_prior_4_mean",
+    "run_weeks_known",
+    "theatre",
+    "month"
+  ],
+  "target": "weekly_gross",
+  "folds": [
+    [
+      2014,
+      2015
+    ],
+    [
+      2015,
+      2016
+    ],
+    [
+      2016,
+      2017
+    ]
+  ],
+  "grid": {
+    "ridge": [
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 100.0
+      }
+    ],
+    "hist_gradient_boosting": [
+      {
+        "learning_rate": 0.05,
+        "max_leaf_nodes": 15
+      },
+      {
+        "learning_rate": 0.05,
+        "max_leaf_nodes": 31
+      },
+      {
+        "learning_rate": 0.1,
+        "max_leaf_nodes": 15
+      },
+      {
+        "learning_rate": 0.1,
+        "max_leaf_nodes": 31
+      }
+    ]
+  },
+  "primary_metric": "mean of the three fold MAEs, equal fold weights",
+  "kpi_reduction_pct": 5.0,
+  "selection_rule": "Choose minimum mean validation MAE per model; exact ties use sorted parameter JSON. Choose best ML method only if validation reduction >= KPI; otherwise retain naive benchmark.",
+  "fixed_hgb": {
+    "max_iter": 150,
+    "loss": "absolute_error",
+    "early_stopping": false,
+    "random_state": 42
+  },
+  "final_start": "2018-01-01",
+  "final_end": "2020-03-01",
+  "availability": "One-week rolling origin; prior reported outcomes available, including prior holdout weeks, without refitting.",
+  "eligibility": "Observed target with four consecutive earlier weeks in same inferred show-theatre run",
+  "prediction_postprocessing": "None; negative predictions remain in evaluation if produced."
+}

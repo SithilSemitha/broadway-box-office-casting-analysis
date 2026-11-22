@@ -1,0 +1,7 @@
+figure,file,title,scope
+1,figure_01_weekly_median.png,Weekly median reported gross per show,1985–2014; all cleaned observed rows
+2,figure_02_gross_histogram.png,Distribution of weekly gross,1985–2014; all cleaned observed rows
+3,figure_03_month_boxplots.png,Calendar-month distributions,2010–2014; all cleaned observed rows
+4,figure_04_missingness_by_year.png,Missingness in optional price-related fields,1985–2014; all cleaned observed rows
+5,figure_05_lag_hexbin.png,Previous-week and target-week gross,1985–2014; eligible rows only
+6,figure_06_occupancy_gross.png,Reported occupancy and weekly gross,1985–2014; all cleaned rows with reported occupancy

@@ -1,0 +1,120 @@
+{
+  "frozen_at_utc": "2026-11-16T15:33:46.824488+00:00",
+  "protocol": {
+    "predictors": [
+      "weekly_gross_lag1",
+      "seats_sold_lag1",
+      "pct_capacity_lag1",
+      "performances_lag1",
+      "previews_lag1",
+      "gross_prior_4_mean",
+      "run_weeks_known",
+      "theatre",
+      "month"
+    ],
+    "target": "weekly_gross",
+    "folds": [
+      [
+        2014,
+        2015
+      ],
+      [
+        2015,
+        2016
+      ],
+      [
+        2016,
+        2017
+      ]
+    ],
+    "grid": {
+      "ridge": [
+        {
+          "alpha": 1.0
+        },
+        {
+          "alpha": 10.0
+        },
+        {
+          "alpha": 100.0
+        }
+      ],
+      "hist_gradient_boosting": [
+        {
+          "learning_rate": 0.05,
+          "max_leaf_nodes": 15
+        },
+        {
+          "learning_rate": 0.05,
+          "max_leaf_nodes": 31
+        },
+        {
+          "learning_rate": 0.1,
+          "max_leaf_nodes": 15
+        },
+        {
+          "learning_rate": 0.1,
+          "max_leaf_nodes": 31
+        }
+      ]
+    },
+    "primary_metric": "mean of the three fold MAEs, equal fold weights",
+    "kpi_reduction_pct": 5.0,
+    "selection_rule": "Choose minimum mean validation MAE per model; exact ties use sorted parameter JSON. Choose best ML method only if validation reduction >= KPI; otherwise retain naive benchmark.",
+    "fixed_hgb": {
+      "max_iter": 150,
+      "loss": "absolute_error",
+      "early_stopping": false,
+      "random_state": 42
+    },
+    "final_start": "2018-01-01",
+    "final_end": "2020-03-01",
+    "availability": "One-week rolling origin; prior reported outcomes available, including prior holdout weeks, without refitting.",
+    "eligibility": "Observed target with four consecutive earlier weeks in same inferred show-theatre run",
+    "prediction_postprocessing": "None; negative predictions remain in evaluation if produced."
+  },
+  "chosen_parameters": {
+    "ridge": {
+      "alpha": 10.0
+    },
+    "hist_gradient_boosting": {
+      "learning_rate": 0.1,
+      "max_leaf_nodes": 31
+    }
+  },
+  "validation_selected_method": "naive",
+  "code_sha256": {
+    "requirements.txt": "34557167cdbdcb9bff8750735c4b23846facc88d2c59822f6603af7f016fba4a",
+    "src\\broadway\\__init__.py": "fbf4b0a75e7d256ce2a74456162ec9eb3da9659823ab07984ca35c6bf424ff06",
+    "src\\broadway\\__main__.py": "c2ff10119d85b599d09473603cdfdd64087b3818d1fe3f84a91854740ee595ad",
+    "src\\broadway\\config.py": "6dad2bcb4cdb8466aa1a2f7d3e3526c5fa99aa19efdc677c92e1d2e00fe6da54",
+    "src\\broadway\\eda.py": "e4b1d87e93b533910fe89ff339dc62d880d1910bab435d162a8b1b90624a1b2e",
+    "src\\broadway\\io.py": "c7cbaa1ff8ecda35bb66934021b1332328169f50f1c86ec543c9aee6545960b2",
+    "src\\broadway\\modelling.py": "1d1ba9ba929cba4f8c0302a1a6ce0ab97daaf02cbf7a60ea2b0b9b9203afe7e7",
+    "src\\broadway\\spark_pipeline.py": "7b7a4a83c669aaf90558ef9b2db745b5857fe86b0a5bc18b0bf6a02c8b3ec91d"
+  },
+  "parquet_sha256": "968206d47872275150614f54b7155bfd06792148bcf6d413fdc4ba25ee88510e",
+  "model_sha256": {
+    "ridge_pre2018.joblib": "4451b57be2e177e00499feaf246b199a488e80b78652a6134471cea03a291331",
+    "hist_gradient_boosting_pre2018.joblib": "a38dc8c5da171b96efd0525fe64894edf455a9cf6b9f47ea648e8afa7e1d719d"
+  },
+  "software": {
+    "python": "3.13.5",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "pyspark": "4.0.3",
+    "pandas": "2.3.3",
+    "pyarrow": "22.0.0",
+    "numpy": "2.2.6",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7",
+    "pytest": "8.4.2",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "7.1.0",
+    "joblib": "1.6.0",
+    "py4j": "0.10.9.9"
+  },
+  "pre2018_fit_rows": 38754,
+  "final_evaluation_run": false
+}

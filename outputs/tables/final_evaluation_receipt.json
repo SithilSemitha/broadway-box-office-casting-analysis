@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "at_utc": "2026-11-20T03:10:22.300901+00:00",
+  "rows_per_model": 3285,
+  "frozen_protocol_sha256": "a9849da199fb7493c21ca2bd86f74e99bc095dd184a9cc18f15f03a5641e330d",
+  "kpi_reduction_pct_recorded_before_evaluation": 5.0,
+  "validation_selected_method": "naive"
+}

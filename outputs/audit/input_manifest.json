@@ -1,0 +1,137 @@
+{
+  "source_url": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-04-28/grosses.csv",
+  "documentation_url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-04-28",
+  "attribution": "Alex Cookson; Playbill reporting of Broadway League grosses; TidyTuesday 2020-04-28",
+  "verified_at_utc": "2026-11-16T15:32:38.926381+00:00",
+  "acquisition": {
+    "source_url": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-04-28/grosses.csv",
+    "method": "downloaded from source URL",
+    "acquired_at_utc": "2026-11-16T15:20:34.505061+00:00",
+    "sha256": "1e383807947d11121737abe21c3b134011b878c5bd8a8cc4c6bc4e7cc7b04e4d"
+  },
+  "bytes": 4904731,
+  "sha256": "1e383807947d11121737abe21c3b134011b878c5bd8a8cc4c6bc4e7cc7b04e4d",
+  "raw_rows": 47524,
+  "raw_columns": 14,
+  "cleaned_rows": 47524,
+  "first_week": "1985-06-09",
+  "last_week": "2020-03-01",
+  "eligible_rows": 42039,
+  "missing_potential_gross": 12613,
+  "missing_top_ticket_price": 11357,
+  "exact_duplicate_rows": 0,
+  "conflicting_keys": 0,
+  "final_eligible_rows": 3285,
+  "final_distinct_weeks": 113,
+  "raw_schema": {
+    "type": "struct",
+    "fields": [
+      {
+        "name": "week_ending",
+        "type": "date",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "week_number",
+        "type": "integer",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "weekly_gross_overall",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "show",
+        "type": "string",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "theatre",
+        "type": "string",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "weekly_gross",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "potential_gross",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "avg_ticket_price",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "top_ticket_price",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "seats_sold",
+        "type": "integer",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "seats_in_theatre",
+        "type": "integer",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "pct_capacity",
+        "type": "double",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "performances",
+        "type": "integer",
+        "nullable": true,
+        "metadata": {}
+      },
+      {
+        "name": "previews",
+        "type": "integer",
+        "nullable": true,
+        "metadata": {}
+      }
+    ]
+  },
+  "software": {
+    "python": "3.13.5",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "pyspark": "4.0.3",
+    "pandas": "2.3.3",
+    "pyarrow": "22.0.0",
+    "numpy": "2.2.6",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7",
+    "pytest": "8.4.2",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "7.1.0",
+    "joblib": "1.6.0",
+    "py4j": "0.10.9.9"
+  },
+  "spark_version": "4.0.3",
+  "java_version": "17.0.12",
+  "forecast_contract": "Nominal USD, observed continuing show-theatre target weeks; four consecutive earlier reported weeks.",
+  "run_caveat": "Inferred from seven-day continuity, not official production IDs. Gaps and venue moves split runs.",
+  "target_and_keys_never_imputed": true
+}

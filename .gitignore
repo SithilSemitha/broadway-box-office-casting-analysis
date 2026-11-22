@@ -8,3 +8,12 @@ artifacts/
 .tools/
 outputs/logs/
 dist/
+
+# Generated Spark/Hadoop sidecars; retain the actual processed Parquet parts.
+data/processed/**/*.crc
+data/processed/**/_SUCCESS
+
+# Optional plot row dumps duplicate processed Parquet; EDA can regenerate them.
+outputs/tables/figure_03_monthly_source.csv
+outputs/tables/figure_05_lag_relationship_source.csv
+outputs/tables/figure_06_occupancy_source.csv

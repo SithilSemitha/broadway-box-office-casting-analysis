@@ -1,0 +1,7 @@
+{
+  "gross_review_threshold_nominal_usd": 1906208.0,
+  "threshold_source": "Q3 + 3 IQR on cleaned target weeks through 2014; approximate quantiles error=0.001",
+  "zero_and_overcapacity_policy": "Retain; >1 occupancy can represent standing-room sales.",
+  "optional_nonfinite_policy": "NaN/infinity converted to null after raw missingness audit.",
+  "examples_scope": "through 2014 only; aggregate quality counts include all dates"
+}

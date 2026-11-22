@@ -1,0 +1,64 @@
+{
+  "reviewed_at_utc": "2026-11-20T03:27:23.041409+00:00",
+  "raw_dimensions_and_hash_match": true,
+  "six_eda_source_tables_match_engineered_data": true,
+  "relationship_and_coverage_counts_match": true,
+  "python_source_syntax_valid": true,
+  "notebooks": [
+    {
+      "file": "01_spark_preprocessing.ipynb",
+      "executed_code_cells": 7,
+      "errors": 0,
+      "embedded_figures": 0,
+      "switches": {
+        "REBUILD_PREPROCESSING": false
+      },
+      "sha256": "d6a44e0230593d1f67d526ef5d4de9c6e701a54545af3d9aab24267a97d094ab"
+    },
+    {
+      "file": "02_eda_and_modelling.ipynb",
+      "executed_code_cells": 14,
+      "errors": 0,
+      "embedded_figures": 6,
+      "switches": {
+        "REBUILD_DEVELOPMENT": false,
+        "RUN_FINAL_TEST": false
+      },
+      "sha256": "19a14aac276d19afd6934148e138281a201c592433b03c50f80148911edac002"
+    }
+  ],
+  "reports": [
+    {
+      "file": "Broadway_CW_Final_Report.docx",
+      "sha256": "d46364c8a23beb8eb32b9b0c403b7cf2d80a3180481188149b8cc7b9696075a2",
+      "embedded_media": 6
+    },
+    {
+      "file": "Broadway_CW_Submission_Workbook.docx",
+      "sha256": "030970d1cddcad55b4ba3f92d173a682977732ce52e75e8b27df6bfe4922ba89",
+      "embedded_media": 0
+    },
+    {
+      "file": "Broadway_CW_Technical_Working_Report.docx",
+      "sha256": "e637731873cfb6e2d52f318655384dd552dfda49956e70c6c62d8c6e1ddc6d7d",
+      "embedded_media": 6
+    }
+  ],
+  "source_listings_verified": 14,
+  "tests_passed": 28,
+  "real_final_evaluation_completed_and_verified": true,
+  "technical_report_task_word_estimate": 3212,
+  "focused_report_word_estimate": 2465,
+  "submission_ready": false,
+  "remaining": [
+    "Student-authored analysis, stakeholder justification and recommendations",
+    "Student identity and independently recorded code checks",
+    "Review and rewrite AI-assisted report; confirm the edited word count and references",
+    "Word pagination/contents update and LMS deadline confirmation"
+  ],
+  "limitations": [
+    "No Word pagination renderer used",
+    "No Colab session executed",
+    "No operational or current-market validation"
+  ]
+}

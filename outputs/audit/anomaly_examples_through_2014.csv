@@ -1,0 +1,49 @@
+flag,week_ending,week_number,weekly_gross_overall,show,theatre,weekly_gross,potential_gross,avg_ticket_price,top_ticket_price,seats_sold,seats_in_theatre,pct_capacity,performances,previews
+zero_reported_gross,1986-03-30,43,3991705.0,"""The Flying Karamazov Brothers """"Juggling and Cheap Theatrics""""""",Vivian Beaumont Theater,0.0,,0.0,,0,1105,0.0,0,4
+zero_reported_gross,1986-04-06,44,3632735.0,"""The Flying Karamazov Brothers """"Juggling and Cheap Theatrics""""""",Vivian Beaumont Theater,0.0,,0.0,,0,1105,0.0,8,0
+zero_reported_gross,1986-04-13,45,3409648.0,"""The Flying Karamazov Brothers """"Juggling and Cheap Theatrics""""""",Vivian Beaumont Theater,0.0,,0.0,,0,1105,0.0,8,0
+zero_reported_gross,1986-04-20,46,3727500.0,"""The Flying Karamazov Brothers """"Juggling and Cheap Theatrics""""""",Vivian Beaumont Theater,0.0,,0.0,,0,1105,0.0,8,0
+zero_reported_gross,2007-11-18,25,2933761.0,A Bronx Tale,Walter Kerr Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+zero_reported_gross,2007-11-25,26,4297988.0,A Bronx Tale,Walter Kerr Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+zero_reported_gross,2007-11-18,25,2933761.0,A Chorus Line,Gerald Schoenfeld Theatre,0.0,,0.0,301.25,0,0,0.0,0,0
+zero_reported_gross,2007-11-25,26,4297988.0,A Chorus Line,Gerald Schoenfeld Theatre,0.0,,0.0,301.25,0,0,0.0,0,0
+zero_reported_gross,2007-11-18,25,2933761.0,August: Osage County,Music Box Theatre,0.0,,0.0,176.5,0,0,0.0,0,0
+zero_reported_gross,2007-11-25,26,4297988.0,August: Osage County,Music Box Theatre,0.0,,0.0,176.5,0,0,0.0,0,0
+zero_reported_gross,2007-11-18,25,2933761.0,Avenue Q,John Golden Theatre,0.0,,0.0,201.25,0,0,0.0,0,0
+zero_reported_gross,2007-11-25,26,4297988.0,Avenue Q,John Golden Theatre,0.0,,0.0,201.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,A Bronx Tale,Walter Kerr Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,A Bronx Tale,Walter Kerr Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,A Chorus Line,Gerald Schoenfeld Theatre,0.0,,0.0,301.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,A Chorus Line,Gerald Schoenfeld Theatre,0.0,,0.0,301.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,August: Osage County,Music Box Theatre,0.0,,0.0,176.5,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,August: Osage County,Music Box Theatre,0.0,,0.0,176.5,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,Avenue Q,John Golden Theatre,0.0,,0.0,201.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,Avenue Q,John Golden Theatre,0.0,,0.0,201.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,Chicago,Ambassador Theatre,0.0,,0.0,251.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,Chicago,Ambassador Theatre,0.0,,0.0,251.25,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-18,25,2933761.0,Curtains,Al Hirschfeld Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+zero_theatre_capacity,2007-11-25,26,4297988.0,Curtains,Al Hirschfeld Theatre,0.0,,0.0,251.5,0,0,0.0,0,0
+occupancy_above_100_pct,1989-08-06,10,4396469.0,"""Mandy Patinkin in Concert: """"Dress Casual""""""",Helen Hayes Theatre,101847.0,,29.15,,3494,499,1.0003,7,0
+occupancy_above_100_pct,2004-12-19,29,15944243.0,700 Sundays,Broadhurst Theatre,737603.0,742094.0,87.96,101.25,8386,1186,1.0101,7,0
+occupancy_above_100_pct,2004-12-26,30,15929896.0,700 Sundays,Broadhurst Theatre,787206.0,742094.0,93.96,101.25,8378,1186,1.0092,7,0
+occupancy_above_100_pct,2005-01-02,31,22069511.0,700 Sundays,Broadhurst Theatre,815787.0,742094.0,97.11,101.25,8401,1186,1.0119,7,0
+occupancy_above_100_pct,2005-01-09,32,14224487.0,700 Sundays,Broadhurst Theatre,819002.0,742094.0,97.58,101.25,8393,1186,1.011,7,0
+occupancy_above_100_pct,2005-01-16,33,14122787.0,700 Sundays,Broadhurst Theatre,851290.0,742094.0,101.18,101.25,8414,1186,1.0135,7,0
+occupancy_above_100_pct,2005-01-23,34,11922910.0,700 Sundays,Broadhurst Theatre,810281.0,742094.0,97.59,101.25,8303,1186,1.0001,7,0
+occupancy_above_100_pct,2005-01-30,35,12325223.0,700 Sundays,Broadhurst Theatre,811060.0,742094.0,97.49,101.25,8319,1186,1.002,7,0
+occupancy_above_100_pct,2005-02-20,38,14239742.0,700 Sundays,Broadhurst Theatre,799998.0,742094.0,94.83,101.25,8436,1186,1.0161,7,0
+occupancy_above_100_pct,2005-02-27,39,15092667.0,700 Sundays,Broadhurst Theatre,780945.0,742094.0,93.31,101.25,8369,1186,1.0081,7,0
+occupancy_above_100_pct,2005-03-06,40,12577162.0,700 Sundays,Broadhurst Theatre,783705.0,742094.0,92.82,101.25,8443,1186,1.017,7,0
+occupancy_above_100_pct,2005-03-13,41,14731195.0,700 Sundays,Broadhurst Theatre,738086.0,633908.0,102.27,101.25,7217,1179,1.0202,6,0
+high_gross_development_3iqr,2014-12-28,31,40993951.0,Aladdin,New Amsterdam Theatre,1986322.0,1665282.0,128.08,252.5,15508,1723,1.0001,9,0
+high_gross_development_3iqr,2012-12-30,31,37441497.0,Annie,Palace Theatre,2054848.0,2164680.0,138.26,250.0,14862,1708,0.9668,9,0
+high_gross_development_3iqr,2012-01-01,31,37657455.0,How to Succeed in Business Without Really Trying,Al Hirschfeld Theatre,1910224.0,1898820.0,148.14,452.0,12895,1424,1.0062,9,0
+high_gross_development_3iqr,2012-01-01,31,37657455.0,"Hugh Jackman, Back on Broadway",Broadhurst Theatre,2056957.0,1582803.0,190.65,350.0,10789,1176,1.0194,9,0
+high_gross_development_3iqr,2013-12-01,27,31531069.0,Kinky Boots,Al Hirschfeld Theatre,1912568.0,1534830.0,166.82,449.0,11465,1424,1.0064,8,0
+high_gross_development_3iqr,2013-12-29,31,38783854.0,Kinky Boots,Al Hirschfeld Theatre,2247240.0,1810625.0,174.02,399.0,12914,1424,1.0076,9,0
+high_gross_development_3iqr,2011-11-27,26,28086477.0,Spider-Man Turn Off the Dark,Foxwoods Theatre,2070196.0,1970240.0,138.37,275.0,14961,1930,0.969,8,0
+high_gross_development_3iqr,2012-01-01,31,37657455.0,Spider-Man Turn Off the Dark,Foxwoods Theatre,2941794.0,2204648.0,169.31,275.0,17375,1930,1.0003,9,0
+high_gross_development_3iqr,2012-04-08,45,27986522.0,Spider-Man Turn Off the Dark,Foxwoods Theatre,2010621.0,1807688.0,151.3,247.0,13289,1930,0.8607,8,0
+high_gross_development_3iqr,2012-12-30,31,37441497.0,Spider-Man Turn Off the Dark,Foxwoods Theatre,2716990.0,2204648.0,160.33,247.0,16946,1930,0.9756,9,0
+high_gross_development_3iqr,2013-12-29,31,38783854.0,Spider-Man Turn Off the Dark,Foxwoods Theatre,2176436.0,1995299.0,129.53,247.0,16803,1932,0.9664,9,0
+high_gross_development_3iqr,2012-12-30,31,37441497.0,The Book of Mormon,Eugene O'Neill Theatre,2158595.0,1609002.0,219.24,477.0,9846,1066,1.0263,9,0

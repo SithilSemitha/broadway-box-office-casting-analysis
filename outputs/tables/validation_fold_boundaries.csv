@@ -1,0 +1,4 @@
+train_through_year,validation_year,train_first,train_last,validation_first,validation_last,train_rows,validation_rows,train_weeks,validation_weeks
+2014,2015,1985-07-07,2014-12-28,2015-01-04,2015-12-20,34565,1389,1539,51
+2015,2016,1985-07-07,2015-12-20,2016-01-31,2016-12-25,35954,1356,1590,48
+2016,2017,1985-07-07,2016-12-25,2017-01-01,2017-12-31,37310,1444,1638,53

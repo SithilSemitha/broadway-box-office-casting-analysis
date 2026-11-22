@@ -1,0 +1,9 @@
+{
+  "max_target_date": "2014-12-28",
+  "cleaned_rows": 39067,
+  "eligible_rows": 34565,
+  "figures": 6,
+  "coverage_note": "Run lengths are observed within the truncated exploratory period, not official lifetime lengths.",
+  "source_parquet": "D:\\3rd Year\\DS\\data\\processed\\broadway_features.parquet",
+  "final_holdout_used": false
+}

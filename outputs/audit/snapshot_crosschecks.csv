@@ -1,0 +1,14 @@
+check,reference,observed,matches
+bytes,4904731,4904731,True
+sha256,1e383807947d11121737abe21c3b134011b878c5bd8a8cc4c6bc4e7cc7b04e4d,1e383807947d11121737abe21c3b134011b878c5bd8a8cc4c6bc4e7cc7b04e4d,True
+raw_rows,47524,47524,True
+raw_columns,14,14,True
+first_week,1985-06-09,1985-06-09,True
+last_week,2020-03-01,2020-03-01,True
+eligible_rows,42039,42039,True
+final_eligible_rows,3285,3285,True
+final_distinct_weeks,113,113,True
+missing_potential_gross,12613,12613,True
+missing_top_ticket_price,11357,11357,True
+exact_duplicate_rows,0,0,True
+conflicting_keys,0,0,True

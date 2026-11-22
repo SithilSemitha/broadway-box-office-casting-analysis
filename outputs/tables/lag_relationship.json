@@ -1,0 +1,7 @@
+{
+  "scope": "eligible target weeks through 2014",
+  "n": 34565,
+  "spearman_rho": 0.9671006776378112,
+  "p_value": 0.0,
+  "caution": "Repeated observations within runs; p-value is descriptive, not an independence-adjusted test."
+}
