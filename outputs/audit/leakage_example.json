@@ -1,0 +1,28 @@
+{
+  "show": "42nd Street",
+  "theatre": "St. James Theatre",
+  "target_date": "1985-07-07",
+  "inferred_run": 1,
+  "prior_dates_and_grosses": [
+    {
+      "week_ending": "1985-06-09",
+      "weekly_gross": 282368.0
+    },
+    {
+      "week_ending": "1985-06-16",
+      "weekly_gross": 301417.0
+    },
+    {
+      "week_ending": "1985-06-23",
+      "weekly_gross": 296438.0
+    },
+    {
+      "week_ending": "1985-06-30",
+      "weekly_gross": 292841.0
+    }
+  ],
+  "computed_four_week_mean": 293266.0,
+  "model_feature_gross_prior_4_mean": 293266.0,
+  "forecast_origin": "1985-06-30",
+  "availability_assumption": "Previous reported week available before prediction; reporting timestamps absent."
+}

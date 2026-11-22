@@ -1,0 +1,18 @@
+{
+  "verified_at_utc": "2026-11-20T03:08:06.871345+00:00",
+  "snapshot_checks_passed": 13,
+  "raw_rows": 47524,
+  "eligible_rows": 42039,
+  "figures_verified": 6,
+  "tuning_rows": 24,
+  "chronological_folds": 3,
+  "validation_predictions_per_model": 4189,
+  "selected_predictions_match_tuning_scores": true,
+  "subgroup_counts_and_scores_verified": true,
+  "frozen_hashes_match": true,
+  "raw_bytes_match_manifest": true,
+  "validation_keys_actuals_match_source": true,
+  "summary_grid_selection_and_fold_counts_verified": true,
+  "real_final_holdout_locked": true,
+  "real_final_holdout_evaluated": false
+}
